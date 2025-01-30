@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppdrag 4 och 5 kod Bussen", "Uppdrag 4 och 5 kod Bussen\Uppdrag 4 och 5 kod Bussen.csproj", "{8D1A5139-B9A6-43BA-83FA-0C3649ABC1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buss-passagerare", "Buss-passagerare\Buss-passagerare.csproj", "{C32A0CBF-E6B7-4E65-A03F-EE344229BFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1A5139-B9A6-43BA-83FA-0C3649ABC1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1A5139-B9A6-43BA-83FA-0C3649ABC1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1A5139-B9A6-43BA-83FA-0C3649ABC1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1A5139-B9A6-43BA-83FA-0C3649ABC1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32A0CBF-E6B7-4E65-A03F-EE344229BFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32A0CBF-E6B7-4E65-A03F-EE344229BFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32A0CBF-E6B7-4E65-A03F-EE344229BFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32A0CBF-E6B7-4E65-A03F-EE344229BFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D323A177-C397-49EC-9E64-2FC3231C3617}
+	EndGlobalSection
+EndGlobal
